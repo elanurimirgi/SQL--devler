@@ -1,2 +1,2 @@
-# SQL-dev1
-Öğrendiğim SQL komutlarıyla yaptığım çalışma
+# SQL-Ödev
+Öğrendiğim SQL komutlarıyla yaptığım çalışmalar
